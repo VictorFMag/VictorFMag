@@ -1,5 +1,5 @@
 ### Hi there, my name is Victor 👋
-I’m a programmer focused in front-end development, seeking for oportunities to deepen in the area and acquire more experience as a professional. I already have experience with Web development, using HTML, CSS, JavaScript, Bootstrap and with system development, using Java. Besides that, I’m learning Python and how to use it in chatbots.
+I’m a programming student seeking for oportunities to deepen in the area and acquire more experience as a professional. I already have experience with Web development, using HTML, CSS, JavaScript, Bootstrap and with system development, using Java. Besides that, I’m learning Python and how to use it in chatbots.
 
 I’m graduated as a Computer Technician at the Instituto Federal de Minas Gerais - Campus Sabará and I’m currently graduating as a Bachelor in Systems of Information, seeking for an internship in technology, so if you need or know someone who needs one, please send a message in LinkedIn:
 <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/victor-fernandes-9286a8238?trk=profile-badge">Victor Fernandes</a>
